@@ -1,0 +1,2 @@
+# GitStart
+To start git
